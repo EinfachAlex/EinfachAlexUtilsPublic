@@ -8,6 +8,6 @@
         INFO = 3,
         USERRETARD = 4,
         SUCCESS = 5,
-        VERBOSE = 6,
+        VERBOSE = 6, 
     }
 }
