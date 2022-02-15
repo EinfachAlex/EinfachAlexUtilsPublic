@@ -15,7 +15,7 @@ namespace EinfachAlex.Utils.Discord
                 Timestamp = DateTime.UtcNow
             };
 
-            embed.WithFooter("FreePSC", embedUser.AvatarUrl);
+            embed.WithFooter("D2P", embedUser.AvatarUrl);
 
             return embed;
         }
